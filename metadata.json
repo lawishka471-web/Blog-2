@@ -1,0 +1,6 @@
+{
+  "name": "Blog Verse",
+  "description": "Native Android reader application for Blog Verse novel platform with guest access, 10-second ad unlock, and Laravel Sanctum auth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
